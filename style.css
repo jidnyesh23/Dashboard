@@ -1,0 +1,35 @@
+
+
+ul{
+    margin: 0px 0px;
+    padding: 0;
+    background-color:black;
+    list-style: none;
+    height: 45px;
+    line-height: 45px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: px;
+}
+li{
+    float: left;
+    border-right: 1px solid lightblue;
+}
+a{
+    display: block;
+    padding: 0 28px;
+    color:White;
+    text-decoration: none;
+}
+a:hover{
+    background-color: green;
+}
+.jidnyesh{
+    background-color: green;
+}
+
+h1{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin: 100px 50px;
+}
